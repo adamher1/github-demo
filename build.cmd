@@ -1,4 +1,4 @@
-@echo on
+@echo on sssss
 setlocal
 
 if not defined MSBUILDLOGPATH (
